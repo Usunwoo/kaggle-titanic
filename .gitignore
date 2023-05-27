@@ -1,4 +1,5 @@
 data/
+submission/
 catboost_info/
 
 *.csv
